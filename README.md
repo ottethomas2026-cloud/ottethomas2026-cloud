@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... open-source projects and interesting programming challenges.
 - 🤔 I’m looking for help with ... writing better code and learning advanced programming concepts.
 - 💬 Ask me about ... programming, Python, and my journey into software development.
-- 📫 How to reach me: ... ottethomas@gmail.com
+- 📫 How to reach me: ... ottethomas2026@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... I enjoy learning new technologies and turning ideas into working programs.
